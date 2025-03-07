@@ -1,0 +1,207 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\ProjectsTraning\\MazeGame\\MazeGameV2.0\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2DCF5BBE-9735-4D6B-9F8F-6F66B31D36CC}|MazeGameV2_0.csproj|d:\\projectstraning\\mazegame\\mazegamev2.0\\emptyspace.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2DCF5BBE-9735-4D6B-9F8F-6F66B31D36CC}|MazeGameV2_0.csproj|solutionrelative:emptyspace.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DCF5BBE-9735-4D6B-9F8F-6F66B31D36CC}|MazeGameV2_0.csproj|d:\\projectstraning\\mazegame\\mazegamev2.0\\character.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2DCF5BBE-9735-4D6B-9F8F-6F66B31D36CC}|MazeGameV2_0.csproj|solutionrelative:character.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DCF5BBE-9735-4D6B-9F8F-6F66B31D36CC}|MazeGameV2_0.csproj|d:\\projectstraning\\mazegame\\mazegamev2.0\\movement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2DCF5BBE-9735-4D6B-9F8F-6F66B31D36CC}|MazeGameV2_0.csproj|solutionrelative:movement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DCF5BBE-9735-4D6B-9F8F-6F66B31D36CC}|MazeGameV2_0.csproj|d:\\projectstraning\\mazegame\\mazegamev2.0\\imazegameshape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2DCF5BBE-9735-4D6B-9F8F-6F66B31D36CC}|MazeGameV2_0.csproj|solutionrelative:imazegameshape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DCF5BBE-9735-4D6B-9F8F-6F66B31D36CC}|MazeGameV2_0.csproj|d:\\projectstraning\\mazegame\\mazegamev2.0\\imazeobjects.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2DCF5BBE-9735-4D6B-9F8F-6F66B31D36CC}|MazeGameV2_0.csproj|solutionrelative:imazeobjects.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DCF5BBE-9735-4D6B-9F8F-6F66B31D36CC}|MazeGameV2_0.csproj|d:\\projectstraning\\mazegame\\mazegamev2.0\\imovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2DCF5BBE-9735-4D6B-9F8F-6F66B31D36CC}|MazeGameV2_0.csproj|solutionrelative:imovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DCF5BBE-9735-4D6B-9F8F-6F66B31D36CC}|MazeGameV2_0.csproj|d:\\projectstraning\\mazegame\\mazegamev2.0\\mazegame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2DCF5BBE-9735-4D6B-9F8F-6F66B31D36CC}|MazeGameV2_0.csproj|solutionrelative:mazegame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DCF5BBE-9735-4D6B-9F8F-6F66B31D36CC}|MazeGameV2_0.csproj|d:\\projectstraning\\mazegame\\mazegamev2.0\\mazegameshape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2DCF5BBE-9735-4D6B-9F8F-6F66B31D36CC}|MazeGameV2_0.csproj|solutionrelative:mazegameshape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DCF5BBE-9735-4D6B-9F8F-6F66B31D36CC}|MazeGameV2_0.csproj|d:\\projectstraning\\mazegame\\mazegamev2.0\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2DCF5BBE-9735-4D6B-9F8F-6F66B31D36CC}|MazeGameV2_0.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DCF5BBE-9735-4D6B-9F8F-6F66B31D36CC}|MazeGameV2_0.csproj|d:\\projectstraning\\mazegame\\mazegamev2.0\\wall.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2DCF5BBE-9735-4D6B-9F8F-6F66B31D36CC}|MazeGameV2_0.csproj|solutionrelative:wall.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DCF5BBE-9735-4D6B-9F8F-6F66B31D36CC}|MazeGameV2_0.csproj|d:\\projectstraning\\mazegame\\mazegamev2.0\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{2DCF5BBE-9735-4D6B-9F8F-6F66B31D36CC}|MazeGameV2_0.csproj|solutionrelative:app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MazeGame.cs",
+              "DocumentMoniker": "D:\\ProjectsTraning\\MazeGame\\MazeGameV2.0\\MazeGame.cs",
+              "RelativeDocumentMoniker": "MazeGame.cs",
+              "ToolTip": "D:\\ProjectsTraning\\MazeGame\\MazeGameV2.0\\MazeGame.cs",
+              "RelativeToolTip": "MazeGame.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T15:10:17.376Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IMazeGameShape.cs",
+              "DocumentMoniker": "D:\\ProjectsTraning\\MazeGame\\MazeGameV2.0\\IMazeGameShape.cs",
+              "RelativeDocumentMoniker": "IMazeGameShape.cs",
+              "ToolTip": "D:\\ProjectsTraning\\MazeGame\\MazeGameV2.0\\IMazeGameShape.cs",
+              "RelativeToolTip": "IMazeGameShape.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAsAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T15:04:52.024Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MazeGameShape.cs",
+              "DocumentMoniker": "D:\\ProjectsTraning\\MazeGame\\MazeGameV2.0\\MazeGameShape.cs",
+              "RelativeDocumentMoniker": "MazeGameShape.cs",
+              "ToolTip": "D:\\ProjectsTraning\\MazeGame\\MazeGameV2.0\\MazeGameShape.cs",
+              "RelativeToolTip": "MazeGameShape.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAAAAoAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T15:05:34.928Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Movement.cs",
+              "DocumentMoniker": "D:\\ProjectsTraning\\MazeGame\\MazeGameV2.0\\Movement.cs",
+              "RelativeDocumentMoniker": "Movement.cs",
+              "ToolTip": "D:\\ProjectsTraning\\MazeGame\\MazeGameV2.0\\Movement.cs",
+              "RelativeToolTip": "Movement.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAQwCwAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T14:47:47.099Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IMovement.cs",
+              "DocumentMoniker": "D:\\ProjectsTraning\\MazeGame\\MazeGameV2.0\\IMovement.cs",
+              "RelativeDocumentMoniker": "IMovement.cs",
+              "ToolTip": "D:\\ProjectsTraning\\MazeGame\\MazeGameV2.0\\IMovement.cs",
+              "RelativeToolTip": "IMovement.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAsAAABWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T14:46:27.962Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Character.cs",
+              "DocumentMoniker": "D:\\ProjectsTraning\\MazeGame\\MazeGameV2.0\\Character.cs",
+              "RelativeDocumentMoniker": "Character.cs",
+              "ToolTip": "D:\\ProjectsTraning\\MazeGame\\MazeGameV2.0\\Character.cs",
+              "RelativeToolTip": "Character.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAsAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T15:05:06.87Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Wall.cs",
+              "DocumentMoniker": "D:\\ProjectsTraning\\MazeGame\\MazeGameV2.0\\Wall.cs",
+              "RelativeDocumentMoniker": "Wall.cs",
+              "ToolTip": "D:\\ProjectsTraning\\MazeGame\\MazeGameV2.0\\Wall.cs",
+              "RelativeToolTip": "Wall.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T15:25:58.156Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IMazeObjects.cs",
+              "DocumentMoniker": "D:\\ProjectsTraning\\MazeGame\\MazeGameV2.0\\IMazeObjects.cs",
+              "RelativeDocumentMoniker": "IMazeObjects.cs",
+              "ToolTip": "D:\\ProjectsTraning\\MazeGame\\MazeGameV2.0\\IMazeObjects.cs",
+              "RelativeToolTip": "IMazeObjects.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAoAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T15:13:01.994Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EmptySpace.cs",
+              "DocumentMoniker": "D:\\ProjectsTraning\\MazeGame\\MazeGameV2.0\\EmptySpace.cs",
+              "RelativeDocumentMoniker": "EmptySpace.cs",
+              "ToolTip": "D:\\ProjectsTraning\\MazeGame\\MazeGameV2.0\\EmptySpace.cs",
+              "RelativeToolTip": "EmptySpace.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T15:05:20.11Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "App.config",
+              "DocumentMoniker": "D:\\ProjectsTraning\\MazeGame\\MazeGameV2.0\\App.config",
+              "RelativeDocumentMoniker": "App.config",
+              "ToolTip": "D:\\ProjectsTraning\\MazeGame\\MazeGameV2.0\\App.config",
+              "RelativeToolTip": "App.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-03-07T14:34:08.369Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\ProjectsTraning\\MazeGame\\MazeGameV2.0\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\ProjectsTraning\\MazeGame\\MazeGameV2.0\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAQwB4AAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T14:36:45.095Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
